@@ -29,6 +29,7 @@ Znam następujące technologie i narzędzia:
   - motoryzacja
   - muzyka
   - taniec
+  - narciarstwo
   
 ## Kontakt
   
